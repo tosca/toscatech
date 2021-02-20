@@ -1,0 +1,23 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    width: 100%;                                                                                                                                                                                                                                                                                                                                                 isplay: grid;
+    height: auto;
+    color: #b9b9d1;	
+  }
+  h1,h2, h3 { 
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+  }
+  img {
+    width: 100%; 
+    height: auto;
+  }
+  .section { 
+    width: 100%;
+    height: auto;
+    padding: 7rem 0rem;
+  }
+  .navy { 
+    color:#000080;
+  }
