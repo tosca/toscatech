@@ -18,9 +18,11 @@ body {
     height: auto;
     padding: 7rem 0rem;
   }
-  .navy { 
-    color:#000080;
+  .main { 
+    background-color: navy;
+    color: red;
   }
+  
 
   footer { 
     padding: 2rem;
