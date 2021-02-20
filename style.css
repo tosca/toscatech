@@ -2,7 +2,8 @@ body {
     font-family: 'Open Sans', sans-serif;
     width: 100%;                                                                                                                                                                                                                                                                                                                                                 isplay: grid;
     height: auto;
-    color: #b9b9d1;	
+    background-color: #b9b9d1;
+    color:rgb(60, 60, 100)	
   }
   h1,h2, h3 { 
     font-family: 'Open Sans', sans-serif;
@@ -16,13 +17,16 @@ body {
   .section { 
     width: 100%;
     height: auto;
-    padding: 7rem 0rem;
+    padding: 5rem 0rem;
   }
-  .main { 
+  header { 
     background-color: navy;
     color: red;
   }
-  
+  main { 
+    background-color: rgb(225, 225, 247);
+    color: red;
+  }
 
   footer { 
     padding: 2rem;
