@@ -21,3 +21,10 @@ body {
   .navy { 
     color:#000080;
   }
+
+  footer { 
+    padding: 2rem;
+    text-align: center;
+    color: #ffdead;
+    background:#b22222;
+  }
